@@ -1,0 +1,43 @@
+[
+    {
+        "id": "1",
+        "name": "Essentials",
+        "category": "For Group",
+        "price": "$17.99",
+        "description ": "Pulau, Chicken/Goat Curry, Mattar Panner, Aalu Kakra Aachar "
+    },
+    {
+        "id": "2",
+        "name": "Value Pack",
+        "category": "For Group",
+        "price": "$19.99",
+        "description ": "Pulau, Chicken Choila, Chicken/Goat Curry, Mattar Panner, Aalu Kakra Aachar "
+    },
+    {
+        "id": "3",
+        "name": "Classic",
+        "category": "For Group",
+        "price": "$25.99",
+        "description ": "Pulau, Chieckn Choila, Chicken/Goat Curry, Mattar Panner, Aalu Kakra Aachar, Chicken Roast "
+    },
+    {
+        "id": "4",
+        "name": "Signature",
+        "category": "For Group",
+        "price": "$28.99",
+        "description ": "Entre: Furandana Chicken Choila/ Chilli Aalu Kakra Achar Veg Pakauda / Bhatamas Sadheko && Mains: Pulau, Chicken/Goat Curry, Choice of Veg Curry, Aalu Kakra Achar, Papad Prawn "
+    },
+    {
+        "id": "5",
+        "name": "Ghumti Special",
+        "category": "For Group",
+        "price": "$34.99",
+        "description ": "Entre: Furandana Chicken Choila/ Chilli Aalu Kakra Achar Veg Pakauda / Bhatamas Sadheko, Chicken Roast && Mains: Pulau, Chicken/Goat Curry, Choice of Veg Curry, Aalu Kakra Achar, Papad, Aalu Chop "
+    },
+    {
+        "id": "6",
+        "name": "Drinks Special",
+        "category": "For Group",
+        "price": "$22.99",
+        "description ": "Chicken Choila, Chicken Roast, Chatpate, Aalu Sadheko, Piro Aalu, Sausage Sadheko"
+    }]

@@ -1,0 +1,46 @@
+.social-media-buttons {
+    display: flex;
+    justify-content: left; 
+    margin-left: 40px;
+    align-items: left;
+    gap: 90px; 
+    align-self: center;
+
+  }
+  
+  .social-button {
+    display: inline-block;
+    border-radius: 50%; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    text-decoration: none; 
+  }
+  
+  .social-button img {
+    width: 80px;
+    height: 80px;
+  }
+  .doordash img{
+    border-radius: 20px;
+  }
+
+  .social-button:hover {
+    transform: scale(1.1);
+    transition: transform 0.3s ease;
+  }
+
+  @media (max-width: 768px) {
+    .social-media-buttons{
+      margin: 0;
+      justify-content: center;
+    }
+    .social-button img{
+      width: 50px;
+      height: 50px;
+    }
+    .doordash img{
+      border-radius: 10px;
+    }
+  }

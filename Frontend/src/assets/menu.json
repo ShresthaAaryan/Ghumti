@@ -1,0 +1,681 @@
+[
+  {     
+      "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/ghumti-project.appspot.com/o/1.jpg?alt=media&token=61fac4b3-41d2-4f28-bd1d-83b2148fb73f",
+      "id": "1",
+      "name": "Chatpate",
+      "category": "Snacks",
+      "price": "$9.99",
+      "popularity": "99.10%"
+  },
+  {
+      "id": "2",
+      "name": "Pani Puri(8 pcs)",
+      "category": "Snacks",
+      "price": "$9.99",
+      "popularity": "78.27%"
+  },
+  {
+      "id": "3",
+      "name": "Chicken Chilli",
+      "category": "Chilli",
+      "price": "$15.99",
+      "popularity": "82.52%"
+  },
+  {
+      "id": "4",
+      "name": "Buff Chilli",
+      "category": "Chilli",
+      "price": "$17.99",
+      "popularity": "84.99%"
+  },
+  {
+      "id": "5",
+      "name": "Paneer Chilli",
+      "category": "Chilli",
+      "price": "$15.99",
+      "popularity": "86.86%"
+  },
+  {
+      "id": "6",
+      "name": "Mushroom Chilli",
+      "category": "Chilli",
+      "price": "$14.99",
+      "popularity": "64.24%"
+  },
+  {
+      "id": "7",
+      "name": "Bhatamas Sadheko",
+      "category": "Sadheko Items",
+      "price": "$9.99",
+      "popularity": "72.51%"
+  },
+  {
+      "id": "8",
+      "name": "Piro Aalu",
+      "category": "Sadheko Items",
+      "price": "$10.99",
+      "popularity": "70.92%"
+  },
+  {
+      "id": "9",
+      "name": "Sukuti",
+      "category": "Sadheko Items",
+      "price": "$16.99",
+      "popularity": "71.91%"
+  },
+  {
+      "id": "10",
+      "name": "Pangra",
+      "category": "Sadheko Items",
+      "price": "$10.99",
+      "popularity": "89.41%"
+  },
+  {
+      "id": "11",
+      "name": "Timur Chicken",
+      "category": "Sadheko Items",
+      "price": "$14.99",
+      "popularity": "64.79%"
+  },
+  {
+      "id": "12",
+      "name": "Spicy Wings",
+      "category": "Sadheko Items",
+      "price": "$15.99",
+      "popularity": "58.16%"
+  },
+  {
+      "id": "13",
+      "name": "Bhuttan",
+      "category": "Sadheko Items",
+      "price": "$16.99",
+      "popularity": "61.89%"
+  },
+  {
+      "id": "14",
+      "name": "Chicken Sekuwa (4 pcs)",
+      "category": "Sekuwa",
+      "price": "$3.99",
+      "popularity": "79.29%"
+  },
+  {
+      "id": "15",
+      "name": "Goat Sekuwa (4 pcs)",
+      "category": "Sekuwa",
+      "price": "$4.99",
+      "popularity": "62.07%"
+  },
+  {
+      "id": "16",
+      "name": "Pork Sekuwa (4 pcs)",
+      "category": "Sekuwa",
+      "price": "$4.99",
+      "popularity": "70.88%"
+  },
+  {
+      "id": "17",
+      "name": "Chicken Choila",
+      "category": "Choila",
+      "price": "$14.99",
+      "popularity": "89.70%"
+  },
+  {
+      "id": "18",
+      "name": "Goat Choila",
+      "category": "Choila",
+      "price": "$15.99",
+      "popularity": "78.30%"
+  },
+  {
+      "id": "19",
+      "name": "Pork Choila",
+      "category": "Choila",
+      "price": "$15.99",
+      "popularity": "94.47%"
+  },
+  {
+      "id": "20",
+      "name": "Chicken Sausage(per pcs)",
+      "category": "Sausage",
+      "price": "$3.99",
+      "popularity": "83.34%"
+  },
+  {
+      "id": "21",
+      "name": "Veg Momo",
+      "category": "Steam Momo",
+      "price": "$11.99",
+      "popularity": "87.59%"
+  },
+  {
+      "id": "22",
+      "name": "Chicken Momo",
+      "category": "Steam Momo",
+      "price": "$12.99",
+      "popularity": "91.80%"
+  },
+  {
+      "id": "23",
+      "name": "Buff Momo",
+      "category": "Steam Momo",
+      "price": "$4.99",
+      "popularity": "89.98%"
+  },
+  {
+      "id": "24",
+      "name": "Veg Momo",
+      "category": "Fried Momo",
+      "price": "$12.99",
+      "popularity": "61.16%"
+  },
+  {
+      "id": "25",
+      "name": "Chicken Momo",
+      "category": "Fried Momo",
+      "price": "$13.99",
+      "popularity": "94.10%"
+  },
+  {
+      "id": "26",
+      "name": "Buff Momo",
+      "category": "Fried Momo",
+      "price": "$14.99",
+      "popularity": "52.06%"
+  },
+  {
+      "id": "27",
+      "name": "Veg Momo",
+      "category": "Sadheko Momo",
+      "price": "$14.99",
+      "popularity": "93.27%"
+  },
+  {
+      "id": "28",
+      "name": "Chicken Momo",
+      "category": "Sadheko Momo",
+      "price": "$15.99",
+      "popularity": "91.28%"
+  },
+  {
+      "id": "29",
+      "name": "Buff Momo",
+      "category": "Sadheko Momo",
+      "price": "$16.99",
+      "popularity": "57.40%"
+  },
+  {
+      "id": "30",
+      "name": "Veg Momo",
+      "category": "Chilly Momo",
+      "price": "$14.99",
+      "popularity": "64.82%"
+  },
+  {
+      "id": "31",
+      "name": "Chicken Momo",
+      "category": "Chilly Momo",
+      "price": "$15.99",
+      "popularity": "92.60%"
+  },
+  {
+      "id": "32",
+      "name": "Buff Momo",
+      "category": "Chilly Momo",
+      "price": "$16.99",
+      "popularity": "81.28%"
+  },
+  {
+      "id": "33",
+      "name": "Veg Momo",
+      "category": "Kothey Momo",
+      "price": "$12.99",
+      "popularity": "92.85%"
+  },
+  {
+      "id": "34",
+      "name": "Chicken Momo",
+      "category": "Kothey Momo",
+      "price": "$13.99",
+      "popularity": "96.31%"
+  },
+  {
+      "id": "35",
+      "name": "Buff Momo",
+      "category": "Kothey Momo",
+      "price": "$15.99",
+      "popularity": "93.25%"
+  },
+  {
+      "id": "36",
+      "name": "Veg Momo",
+      "category": "Jhol Momo",
+      "price": "$13.99",
+      "popularity": "53.49%"
+  },
+  {
+      "id": "37",
+      "name": "Chicken Momo",
+      "category": "Jhol Momo",
+      "price": "$15.99",
+      "popularity": "78.53%"
+  },
+  {
+      "id": "38",
+      "name": "Buff Momo",
+      "category": "Jhol Momo",
+      "price": "$16.99",
+      "popularity": "59.30%"
+  },
+  {
+      "id": "39",
+      "name": "Veg Momo",
+      "category": "Momo Platter",
+      "price": "$18.99",
+      "popularity": "62.70%"
+  },
+  {
+      "id": "40",
+      "name": "Chicken Momo",
+      "category": "Momo Platter",
+      "price": "$19.99",
+      "popularity": "74.44%"
+  },
+  {
+      "id": "41",
+      "name": "Buff Momo",
+      "category": "Momo Platter",
+      "price": "$23.99",
+      "popularity": "82.09%"
+  },
+  {
+      "id": "42",
+      "name": "Chicken Khaja Set",
+      "category": "Nepali Khaja Set",
+      "price": "$16.99",
+      "popularity": "50.68%"
+  },
+  {
+      "id": "43",
+      "name": "Goat Khaja Set",
+      "category": "Nepali Khaja Set",
+      "price": "$17.99",
+      "popularity": "66.84%"
+  },
+  {
+      "id": "44",
+      "name": "Sukuti Khaja Set",
+      "category": "Nepali Khaja Set",
+      "price": "$19.99",
+      "popularity": "95.52%"
+  },
+  {
+      "id": "45",
+      "name": "Bhuttan Khaja Set",
+      "category": "Nepali Khaja Set",
+      "price": "$18.99",
+      "popularity": "53.90%"
+  },
+  {
+      "id": "46",
+      "name": "Pork Khaja Set",
+      "category": "Nepali Khaja Set",
+      "price": "$18.99",
+      "popularity": "82.52%"
+  },
+  {
+      "id": "47",
+      "name": "Goat Taas Set",
+      "category": "Nepali Khaja Set",
+      "price": "$19.99",
+      "popularity": "69.08%"
+  },
+  {
+      "id": "48",
+      "name": "Chicken Tikka",
+      "category": "Nepali Khaja Set",
+      "price": "$15.99",
+      "popularity": "86.59%"
+  },
+  {
+      "id": "49",
+      "name": "Veg Thali Set",
+      "category": "Thali Set",
+      "price": "$17.99",
+      "popularity": "96.82%"
+  },
+  {
+      "id": "50",
+      "name": "Chicken Thali Set",
+      "category": "Thali Set",
+      "price": "$18.99",
+      "popularity": "83.03%"
+  },
+  {
+      "id": "51",
+      "name": "Goat Thali Set",
+      "category": "Thali Set",
+      "price": "$19.99",
+      "popularity": "73.85%"
+  },
+  {
+      "id": "52",
+      "name": "Meat Platter",
+      "category": "Special",
+      "price": "$39.99",
+      "popularity": "70.01%"
+  },
+  {
+      "id": "53",
+      "name": "Chicken Burger",
+      "category": "Special",
+      "price": "$14.99",
+      "popularity": "80.13%"
+  },
+  {
+      "id": "54",
+      "name": "Lamb Burger",
+      "category": "Special",
+      "price": "$16.99",
+      "popularity": "73.86%"
+  },
+  {
+      "id": "55",
+      "name": "Veg Curry",
+      "category": "Authentic Curry",
+      "price": "$12.99",
+      "popularity": "64.07%"
+  },
+  {
+      "id": "56",
+      "name": "Butter Chicken",
+      "category": "Authentic Curry",
+      "price": "$16.99",
+      "popularity": "59.39%"
+  },
+  {
+      "id": "57",
+      "name": "Chicken",
+      "category": "Authentic Curry",
+      "price": "$13.99",
+      "popularity": "55.93%"
+  },
+  {
+      "id": "58",
+      "name": "Goat",
+      "category": "Authentic Curry",
+      "price": "$14.99",
+      "popularity": "55.40%"
+  },
+  {
+      "id": "59",
+      "name": "Nuggets",
+      "category": "Kids Meal",
+      "price": "$4.99",
+      "popularity": "57.74%"
+  },
+  {
+      "id": "60",
+      "name": "Fries",
+      "category": "Kids Meal",
+      "price": "$4.99",
+      "popularity": "73.32%"
+  },
+  {
+      "id": "61",
+      "name": "Chicken Biryani",
+      "category": "Biryani",
+      "price": "$16.99",
+      "popularity": "59.48%"
+  },
+  {
+      "id": "62",
+      "name": "Goat Biryani",
+      "category": "Biryani",
+      "price": "$17.99",
+      "popularity": "52.32%"
+  },
+  {
+      "id": "63",
+      "name": "Veg Fried Rice",
+      "category": "Fried Rice",
+      "price": "$12.99",
+      "popularity": "92.18%"
+  },
+  {
+      "id": "64",
+      "name": "Chicken Fried Rice",
+      "category": "Fried Rice",
+      "price": "$13.99",
+      "popularity": "82.09%"
+  },
+  {
+      "id": "65",
+      "name": "Buff Fried Rice",
+      "category": "Fried Rice",
+      "price": "$14.99",
+      "popularity": "81.07%"
+  },
+  {
+      "id": "66",
+      "name": "Pork Fried Rice",
+      "category": "Fried Rice",
+      "price": "$14.99",
+      "popularity": "87.37%"
+  },
+  {
+      "id": "67",
+      "name": "Mix (Combination of your Choice)",
+      "category": "Fried Rice",
+      "price": "$17.99",
+      "popularity": "85.77%"
+  },
+  {
+      "id": "68",
+      "name": "Naan Bread",
+      "category": "Naan",
+      "price": "$3.99",
+      "popularity": "52.00%"
+  },
+  {
+      "id": "69",
+      "name": "Veg Chowmein",
+      "category": "Noodle",
+      "price": "$12.99",
+      "popularity": "86.00%"
+  },
+  {
+      "id": "70",
+      "name": "Egg Chowmein",
+      "category": "Noodle",
+      "price": "$13.99",
+      "popularity": "62.78%"
+  },
+  {
+      "id": "71",
+      "name": "Chicken Chowmein",
+      "category": "Noodle",
+      "price": "$14.99",
+      "popularity": "76.11%"
+  },
+  {
+      "id": "72",
+      "name": "Buff Chowmein",
+      "category": "Noodle",
+      "price": "$15.99",
+      "popularity": "79.83%"
+  },
+  {
+      "id": "73",
+      "name": "Pork Chowmein",
+      "category": "Noodle",
+      "price": "$15.99",
+      "popularity": "80.84%"
+  },
+  {
+      "id": "74",
+      "name": "Buff & Chicken",
+      "category": "Noodle",
+      "price": "$16.99",
+      "popularity": "85.01%"
+  },
+  {
+      "id": "75",
+      "name": "Pork & Chicken",
+      "category": "Noodle",
+      "price": "$16.99",
+      "popularity": "90.35%"
+  },
+  {
+      "id": "76",
+      "name": "Chicken",
+      "category": "Thukpa",
+      "price": "$15.99",
+      "popularity": "57.94%"
+  },
+  {
+      "id": "77",
+      "name": "Vegetable",
+      "category": "Thukpa",
+      "price": "$14.99",
+      "popularity": "78.82%"
+  },
+  {
+      "id": "78",
+      "name": "Pork",
+      "category": "Thukpa",
+      "price": "$16.99",
+      "popularity": "70.34%"
+  },
+  {
+      "id": "79",
+      "name": "Mix (Combination of your Choice)",
+      "category": "Thukpa",
+      "price": "$16.99",
+      "popularity": "68.32%"
+  },
+  {
+      "id": "80",
+      "name": "Chicken Combo (with 5pcs Momo)",
+      "category": "Thukpa",
+      "price": "$17.99",
+      "popularity": "78.41%"
+  },
+  {
+      "id": "81",
+      "name": "Buff Combo(with 5pcs Momo)",
+      "category": "Thukpa",
+      "price": "$19.99",
+      "popularity": "54.48%"
+  },
+  {
+      "id": "82",
+      "name": "Coke",
+      "category": "Soft Drinks",
+      "price": "$3.99",
+      "popularity": "66.13%"
+  },
+  {
+      "id": "83",
+      "name": "Fanta",
+      "category": "Soft Drinks",
+      "price": "$3.99",
+      "popularity": "81.23%"
+  },
+  {
+      "id": "84",
+      "name": "Sprite",
+      "category": "Soft Drinks",
+      "price": "$3.99",
+      "popularity": "73.46%"
+  },
+  {
+      "id": "85",
+      "name": "Bottled Water",
+      "category": "Soft Drinks",
+      "price": "$2.99",
+      "popularity": "97.89%"
+  },
+  {
+      "id": "86",
+      "name": "Lemon Lime Bitter",
+      "category": "Soft Drinks",
+      "price": "$3.99",
+      "popularity": "64.71%"
+  },
+  {
+      "id": "87",
+      "name": "Plain Lassi",
+      "category": "Lassi",
+      "price": "$4.99",
+      "popularity": "69.47%"
+  },
+  {
+      "id": "88",
+      "name": "Mango Lassi",
+      "category": "Lassi",
+      "price": "$5.99",
+      "popularity": "98.11%"
+  },
+  {
+      "id": "89",
+      "name": "Milk Tea",
+      "category": "Tea",
+      "price": "$3.99",
+      "popularity": "81.67%"
+  },
+  {
+      "id": "90",
+      "name": "Black Tea",
+      "category": "Tea",
+      "price": "$2.99",
+      "popularity": "74.91%"
+  },
+  {
+      "id": "91",
+      "name": "Corona",
+      "category": "Alchohol Drinks",
+      "price": "$5.99",
+      "popularity": "60.88%"
+  },
+  {
+      "id": "92",
+      "name": "Peroni",
+      "category": "Alchohol Drinks",
+      "price": "$5.99",
+      "popularity": "90.07%"
+  },
+  {
+      "id": "93",
+      "name": "Aashahi",
+      "category": "Alchohol Drinks",
+      "price": "$5.99",
+      "popularity": "90.05%"
+  },
+  {
+      "id": "94",
+      "name": "Nepalese Beer",
+      "category": "Alchohol Drinks",
+      "price": "$6.99",
+      "popularity": "99.03%"
+  },
+  {
+      "id": "95",
+      "name": "Red Wine",
+      "category": "Alchohol Drinks",
+      "price": "$8.99",
+      "popularity": "76.87%"
+  },
+  {
+      "id": "96",
+      "name": "Gulam Jamun",
+      "category": "Desserts",
+      "price": "$5.99",
+      "popularity": "91.56%"
+  },
+  {
+      "id": "97",
+      "name": "Rasmalai",
+      "category": "Desserts",
+      "price": "$5.99",
+      "popularity": "77.41%"
+  }]
