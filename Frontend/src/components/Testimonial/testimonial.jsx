@@ -1,29 +1,24 @@
 import React, { useState, useEffect } from 'react';
 import './testimonial.css';
 
-function RatingReview({ rating, setRating }) {
+function RatingReview({ rating }) {
   return (
     <div>
-      {[1, 2, 3, 4, 5].map((star) => {
-        return (  
-          <span
-            className='star'
-            style={{
-              cursor: 'pointer',
-              color: rating >= star ? 'gold' : 'gray',
-              fontSize: `35px`,
-            }}
-            onClick={() => {
-              setRating(star)
-            }}
-          >
-            {' '}
-            ★{' '}
-          </span>
-        )
-      })}
+      {[1, 2, 3, 4, 5].map((star) => (
+        <span
+          className='star'
+          style={{
+            cursor: 'pointer',
+            color: rating >= star ? 'gold' : 'gray',
+            fontSize: '35px',
+          }}
+          key={star}
+        >
+          ★
+        </span>
+      ))}
     </div>
-  )
+  );
 }
 
 const testimonialsData = [
@@ -113,6 +108,7 @@ const testimonialsData = [
   }
 ]
 
+
 const Testimonials = () => {
   const [currentIndex, setCurrentIndex] = useState(0);
 
@@ -124,19 +120,28 @@ const Testimonials = () => {
     return () => clearInterval(intervalId);
   }, []);
 
+  const handlePrev = () => {
+    setCurrentIndex((prevIndex) => (prevIndex - 3 + testimonialsData.length) % testimonialsData.length);
+  };
+
+  const handleNext = () => {
+    setCurrentIndex((prevIndex) => (prevIndex + 3) % testimonialsData.length);
+  };
+
   return (
     <div className="testimonials-container">
       <h2 className="section-title">Testimonials</h2>
       <div className="testimonials">
-        {testimonialsData.slice(currentIndex, currentIndex + 3).map(testimonial => (
+        <button className="nav-button left" onClick={handlePrev}>❮</button>
+        {testimonialsData.slice(currentIndex, currentIndex + 3).map((testimonial) => (
           <div key={testimonial.id} className="testimonial">
             <p className="quote">{testimonial.quote}</p>
             <p className="name">{testimonial.name}</p>
-            <p className="role">{testimonial.role}</p>
             <p className="role">{testimonial.from}</p>
             <RatingReview rating={testimonial.star} />
           </div>
         ))}
+        <button className="nav-button right" onClick={handleNext}>❯</button>
       </div>
     </div>
   );

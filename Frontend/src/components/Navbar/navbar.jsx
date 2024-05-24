@@ -6,12 +6,15 @@ import { MdOutlineRestaurantMenu } from 'react-icons/md';
 import { BsFillTelephoneFill } from "react-icons/bs";
 import './navbar.css';
 
+function refreshPage() {
+  window.location.reload(false);
+}
 const Navbar = () => {
   const [toggleMenu, setToggleMenu] = React.useState(false);
   return (
     <nav className="app__navbar">
       <div className="app__navbar-logo">
-        <img src={ghumti} alt="app__logo" />
+        <img src={ghumti} onClick={refreshPage} alt="app__logo" />
       </div>
       <div className="app__navbar-links">
         <ul className="app__navbar-links">

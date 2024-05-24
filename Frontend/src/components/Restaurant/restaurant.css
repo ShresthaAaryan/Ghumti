@@ -95,6 +95,24 @@ h1{
   background-color: #fecc44;
 }
 
+.card-description-cater {
+  display: flex;
+  position: absolute;
+  width: 100%;
+  flex-direction: column;
+  background-color: #f5f5f5;
+  color: #212121;
+  height: 100%;
+  bottom: 0;
+  border-radius: 16px;
+  transition: all 1s cubic-bezier(0.645, 0.045, 0.355, 1);
+  background-color: #fecc44;
+}
+.card-description-cater p{
+  margin: auto auto;
+  padding: 10px;
+}
+
 .text-title {
   font-size: 1.3rem;
   font-weight: 700;

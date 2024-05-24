@@ -93,8 +93,8 @@ const FilterableTable = () => {
                 {filteredCatering.map((cater) => (
                   <div key={cater.id} className="food-item"><br/><br/>
                     <div className="card">
-                      <div className="card-image" style={{ backgroundImage: `url(${require(`../../assets/Photos/${cater.id}.jpg`)})`, alt: `Best ${cater.name} in allawah, sydney` }}></div>
-                      <div className="card-description">
+                      <div className="card-image" style={{alt: `Best ${cater.name} in allawah, sydney` }}></div>
+                      <div className="card-description-cater">
                         <p className="text-title">{cater.name}</p>
                         <p className="text-body">{cater.category}</p>
                         <p className="text-body">{cater.price}</p>

@@ -33,7 +33,7 @@ function Contact() {
     e.preventDefault();
 
     try {
-      const response = await fetch('http://localhost:3001/send-email', {
+      const response = await fetch('https://ghumti.au/backend:3002/', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
