@@ -1,9 +1,12 @@
 {
   "name": "lol",
   "homepage": "http://ghumti.au/",
+<<<<<<< HEAD
   "menu": "http://ghumti.au/menu",
   "reservation": "http://ghumti.au/reservation",
   "contact": "http://ghumti.au/contact",
+=======
+>>>>>>> 245992d917448665423d9830363255bae4f43702
   "version": "0.1.0",
   "private": true,
   "dependencies": {
