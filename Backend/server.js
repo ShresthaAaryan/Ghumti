@@ -35,7 +35,7 @@ function handleGeneralInquiry(formData, res) {
 
   const mailOptions = {
     from: email,
-    to: 'ghumti.au@gmail.com, ghumtikitchen777@gmail.com',
+    to: 'shresthaaaryan123@gmail.com',
     subject: 'General Feedback',
     text: `Name: ${name}\nContact: ${contact}\nEmail: ${email}\nMessage: ${message}`,
   };
@@ -47,7 +47,7 @@ function handleOrderInquiry(formData, res) {
   const { orderSize, arrivalTime, arrivalDate, numberOfPeople, otherDetails, email, phoneNumber } = formData;
 
   const mailOptions = {
-    from: 'shresthaaaryan123@gmail.com',
+    from: email,
     to: 'shresthaaaryan123@gmail.com',
     subject: 'New Order Inquiry',
     text: `Order Size: ${orderSize}\nArrival Time: ${arrivalTime}\nArrival Date: ${arrivalDate}\nNumber of People: ${numberOfPeople}\nOther Details: ${otherDetails}\nEmail: ${email}\nPhone Number: +61-${phoneNumber}`,
